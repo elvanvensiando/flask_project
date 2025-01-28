@@ -1,7 +1,7 @@
 #Import library
 from flask import Flask, render_template, request, redirect
 from flask_sqlalchemy import SQLAlchemy
-
+#changing test
 
 app = Flask(__name__)
 # Menghubungkan SQLite
