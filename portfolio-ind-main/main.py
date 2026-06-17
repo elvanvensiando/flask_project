@@ -70,5 +70,5 @@ def form_create():
         return render_template('index.html')
 
 # no need if we host on the cloud(pythonanywhere/AWS)
-if __name__ == "__main__":
-    app.run(debug=True)
+# if __name__ == "__main__":
+#     app.run(debug=True)
